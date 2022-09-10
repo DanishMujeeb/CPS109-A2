@@ -1,0 +1,12 @@
+answer Faceless Man
+question Who is Arya Stark's wife?
+answer John
+question Who escaped the persecution of House Stark?
+answer Faceless Man
+question What is Arya trained as at the House of Black and White in Braavos?
+answer House Stark
+question Who was the faceless man in Braavos?
+answer House Lannister
+question What male line does Arya exterminate after returning to Westeros?
+answer John
+question Who escaped the persecution of House Stark?
