@@ -7,5 +7,3 @@ This was my second assignment in my introduction to programming class (CPS 109).
 - Read all the answers from one file and to write them to another 
 - Read a file and count the frequency for each word in that file
 - Sort the frequencies of each word from most frequent to least and to write this information to a file
-- Language Used: Python
-- Main Concepts Covered: Functions, Dictionaries, File I/O and Unit Testing
